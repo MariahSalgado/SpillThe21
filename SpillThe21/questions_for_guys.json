@@ -1,0 +1,23 @@
+[
+  { "level": 1, "questions": ["What's your favorite snack?", "PlayStation or Xbox?", "What's your favorite sports team?"] },
+  { "level": 2, "questions": ["Who's your favorite superhero?", "What’s your go-to fast food order?", "What's a movie you never get tired of?"] },
+  { "level": 3, "questions": ["What's your dream car?", "Would you rather hit the gym or play a game?", "What's your most-worn hoodie?"] },
+  { "level": 4, "questions": ["What's your favorite cologne?", "Who’s your favorite athlete?", "What's a trend you secretly like?"] },
+  { "level": 5, "questions": ["What’s something most people don’t know about you?", "What's your biggest goal this year?", "If you could go anywhere right now, where would you go?"] },
+  { "level": 6, "questions": ["What’s one thing you’d buy if money didn’t matter?", "Who's your role model?", "Would you rather be rich or famous?"] },
+  { "level": 7, "questions": ["What’s a skill you wish you had?", "If you could be in any movie, which one?", "Have you ever had a crush on a friend's sister?"] },
+  { "level": 8, "questions": ["What's the most embarrassing thing that happened at school?", "Have you ever had a crush on a teacher?", "What’s your most cringe memory?"] },
+  { "level": 9, "questions": ["What’s your secret talent?", "What's your guilty pleasure song?", "Who was your first crush?"] },
+  { "level": 10, "questions": ["Have you ever lied to get out of trouble?", "Have you ever gotten away with something bad?", "What’s something your parents still don’t know?"] },
+  { "level": 11, "questions": ["Who’s someone you looked up to as a kid?", "What’s the dumbest thing you've done for attention?", "What’s a fear you’d never admit out loud?"] },
+  { "level": 12, "questions": ["What's a rumor you've heard about yourself?", "Have you ever cheated on a test?", "What's something you're lowkey obsessed with?"] },
+  { "level": 13, "questions": ["Have you ever cried during a movie?", "What’s the most emotional moment you’ve had?", "When’s the last time you felt really proud of yourself?"] },
+  { "level": 14, "questions": ["What’s your biggest insecurity?", "What’s something you avoid talking about?", "What's a moment that still bothers you?"] },
+  { "level": 15, "questions": ["Have you ever ghosted someone?", "What's a mistake you regret?", "What’s something you said that you wish you could take back?"] },
+  { "level": 16, "questions": ["What's the worst thing you've ever done and got away with?", "Have you ever broken someone’s heart?", "What’s a secret you’ve never told anyone?"] },
+  { "level": 17, "questions": ["What's your biggest red flag?", "What's something you judge other guys for?", "What’s something you’ve faked or lied about?"] },
+  { "level": 18, "questions": ["What’s the craziest dare you’ve completed?", "Have you ever snuck out or snuck someone in?", "What’s the wildest night you’ve had?"] },
+  { "level": 19, "questions": ["What's your definition of loyalty?", "What would you do if your friend dated your ex?", "What's a line you’d never cross in friendship?"] },
+  { "level": 20, "questions": ["Have you ever been heartbroken?", "Would you take back an ex if they asked?", "What’s your real type — not your 'public' one?"] },
+  { "level": 21, "questions": ["What’s a secret you hoped would never come out?", "If everyone here knew one truth about you, what would scare you?", "Would you rather spill your secrets or take a shot?"] }
+]

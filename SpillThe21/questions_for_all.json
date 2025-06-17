@@ -1,0 +1,23 @@
+[
+  { "level": 1, "questions": ["What’s your favorite snack?", "What color are your socks?", "Do you like cats or dogs more?"] },
+  { "level": 2, "questions": ["What’s your comfort TV show?", "Are you more of a morning or night person?", "What’s your favorite app on your phone?"] },
+  { "level": 3, "questions": ["If you had to eat one food forever, what would it be?", "What’s your weirdest habit?", "Do you believe in luck?"] },
+  { "level": 4, "questions": ["What’s your dream vacation?", "Do you believe in horoscopes?", "What song do you know by heart?"] },
+  { "level": 5, "questions": ["What’s a guilty pleasure you have?", "What’s your go-to drink order?", "What’s your phone wallpaper right now?"] },
+  { "level": 6, "questions": ["Have you ever had a celebrity crush?", "What’s a word you always misspell?", "What emoji do you use the most?"] },
+  { "level": 7, "questions": ["What’s something you’re oddly good at?", "Who in this group do you trust the most?", "What’s a smell you secretly love?"] },
+  { "level": 8, "questions": ["Have you ever had a crush on someone in this room?", "Would you ever go on a reality show?", "What's the most spontaneous thing you've done?"] },
+  { "level": 9, "questions": ["What’s your biggest pet peeve?", "What's the worst haircut you've had?", "Have you ever sent a message to the wrong person?"] },
+  { "level": 10, "questions": ["What's your most used excuse?", "Have you ever lied to get out of plans?", "What's a fear you're embarrassed to admit?"] },
+  { "level": 11, "questions": ["What’s the worst date you’ve been on?", "What’s something you’ve Googled that you’re embarrassed about?", "What’s the last thing you screenshotted?"] },
+  { "level": 12, "questions": ["Who was your last Instagram DM with?", "What’s something that instantly gives you the ick?", "What’s something you regret saying recently?"] },
+  { "level": 13, "questions": ["Have you ever ghosted someone?", "Have you ever liked someone you shouldn’t?", "What's something people assume about you that's wrong?"] },
+  { "level": 14, "questions": ["What’s a lie you told to impress someone?", "Have you ever stalked someone online?", "What's your most toxic trait?"] },
+  { "level": 15, "questions": ["Who in this group would survive a zombie apocalypse?", "What’s something you'd never tell your parents?", "Have you ever kept a secret from your best friend?"] },
+  { "level": 16, "questions": ["What’s your cringiest DM ever sent or received?", "Would you rather lose your phone or your entire camera roll?", "Have you ever flirted to get something you wanted?"] },
+  { "level": 17, "questions": ["What’s your biggest red flag?", "Have you ever been friend-zoned?", "Would you ever take back an ex?"] },
+  { "level": 18, "questions": ["What’s the most scandalous thing in your camera roll?", "Have you ever hooked up with someone you weren’t supposed to?", "What's your biggest secret right now?"] },
+  { "level": 19, "questions": ["What’s your most embarrassing moment in public?", "Have you ever fake cried to get your way?", "Who’s the last person you stalked on social media?"] },
+  { "level": 20, "questions": ["Would you rather date someone boring or overly clingy?", "What’s something you’d never admit unless forced?", "Have you ever lied during a game like this?"] },
+  { "level": 21, "questions": ["Who’s someone here you’d never date and why?", "What’s something you swore you'd never tell anyone?", "Would you rather spill your secrets or take a shot?"] }
+]

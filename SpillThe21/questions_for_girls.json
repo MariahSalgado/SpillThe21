@@ -1,0 +1,23 @@
+[
+  { "level": 1, "questions": ["What's your favorite color?", "Lip gloss or mascara?", "Coffee or matcha?"] },
+  { "level": 2, "questions": ["Who was your first crush?", "What's your go-to hairstyle?", "What’s your favorite scented candle?"] },
+  { "level": 3, "questions": ["Do you believe in love at first sight?", "Would you rather get flowers or chocolate?", "What’s your comfort movie?"] },
+  { "level": 4, "questions": ["What’s something you never leave the house without?", "Who do you call when you're crying?", "What’s your favorite self-care ritual?"] },
+  { "level": 5, "questions": ["What’s your star sign and do you believe in it?", "What’s your current favorite song?", "What girl trend do you secretly love?"] },
+  { "level": 6, "questions": ["What's a fashion trend you tried and regretted?", "What’s one thing you always buy but never use?", "What’s your love language?"] },
+  { "level": 7, "questions": ["Have you ever had a secret admirer?", "What’s your dream girl trip?", "If you could only shop at one store forever, what would it be?"] },
+  { "level": 8, "questions": ["What’s something you wish guys understood?", "What’s your ultimate girl code rule?", "What’s the worst date you’ve ever been on?"] },
+  { "level": 9, "questions": ["If you had a reality show, what would it be called?", "Have you ever ghosted someone?", "Do you stalk your ex’s socials?"] },
+  { "level": 10, "questions": ["What’s something you lied about to impress someone?", "Would you ever text first after a fight?", "What’s a secret talent you have?"] },
+  { "level": 11, "questions": ["What’s a red flag in a friendship?", "What’s a green flag in a guy?", "Have you ever liked someone your friend liked?"] },
+  { "level": 12, "questions": ["What’s your go-to excuse to cancel plans?", "What’s something you’d never admit to your parents?", "What’s your current obsession?"] },
+  { "level": 13, "questions": ["What’s your worst heartbreak story?", "Have you ever been the heartbreaker?", "What’s something you’d do if no one found out?"] },
+  { "level": 14, "questions": ["What's the most toxic thing you've done?", "What’s a moment that still haunts you?", "Have you ever fake cried?"] },
+  { "level": 15, "questions": ["Who’s a girl you secretly envy?", "What’s the pettiest reason you stopped talking to someone?", "What’s a rumor you heard about yourself?"] },
+  { "level": 16, "questions": ["What’s a secret you’ve never told anyone?", "What’s something you regret not saying?", "What’s something that made you feel powerful?"] },
+  { "level": 17, "questions": ["Have you ever gotten revenge on someone?", "What’s your wildest party story?", "Who’s the most surprising person you’ve kissed?"] },
+  { "level": 18, "questions": ["What’s the most embarrassing thing in your camera roll?", "What’s something you did just to fit in?", "What’s your weirdest habit?"] },
+  { "level": 19, "questions": ["What’s something you judge other girls for?", "What’s a lie you told to get out of trouble?", "What’s something that still makes you cringe?"] },
+  { "level": 20, "questions": ["What’s the biggest risk you’ve taken for love?", "Have you ever cheated or helped someone cheat?", "What’s a secret about your first kiss?"] },
+  { "level": 21, "questions": ["What’s your guilty pleasure?", "What’s something you've never admitted until now?", "Would you rather spill your secrets or take a shot?"] }
+]
